@@ -1,0 +1,57 @@
+astra ❯ initialize a git repo
+astra ❯ add all files to staging
+astra ❯ commit with message "initial commit"
+astra ❯ create a new branch called feature
+
+
+astra ❯ initialize a git repo
+astra ❯ add all files to staging
+astra ❯ commit with message "initial commit"
+astra ❯ create a new branch called feature
+
+
+astra ❯ initialize a git repo
+astra ❯ add all files to staging
+astra ❯ commit with message "initial commit"
+astra ❯ create a new branch called feature
+
+
+astra ❯ initialize a git repo
+astra ❯ add all files to staging
+astra ❯ commit with message "initial commit"
+astra ❯ create a new branch called feature
+
+
+astra ❯ initialize a git repo
+astra ❯ add all files to staging
+astra ❯ commit with message "initial commit"
+astra ❯ create a new branch called feature
+
+
+astra ❯ initialize a git repo
+astra ❯ add all files to staging
+astra ❯ commit with message "initial commit"
+astra ❯ create a new branch called feature
+
+
+
+
+create branch {name} → git checkout -b {name}
+
+delete folder {name} → Remove-Item -Recurse -Force {name}
+
+kill port {num} → Stop-Process -Id (Get-NetTCPConnection -LocalPort {num}).OwningProcess -Force
+
+show ip → ipconfig | findstr IPv4
+
+commit {msg} → git add . ; git commit -m "{msg}"
+
+new node project → npm init -y
+
+list files → dir /b
+
+undo commit → git reset --soft HEAD~1
+
+find file {name} → Get-ChildItem -Filter {name} -Recurse
+
+clear dns → ipconfig /flushdns
